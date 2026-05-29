@@ -1,0 +1,6 @@
+{
+  "name": "PomoWeather",
+  "description": "A sleek Pomodoro productivity sessions timer with live weather adaptation, live ticking clock, and local analytics database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
